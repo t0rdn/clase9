@@ -1,4 +1,12 @@
-[
+[ {
+        "nombre": "Anti-Tati",
+        "descripcion": "Capsula personal de un minuto describiendo el opuesto de mi ser",
+        "fecha": "2022",
+        "signo": "Audiovisual",
+        "foto": "https://github.com/user-attachments/assets/8112658c-119a-4948-ae3a-5d4b1056ce81",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+
     { 
         "nombre": "Caos",
         "descripcion": "Un juego basado en el ecosistema de la Isla Choros",
@@ -71,6 +79,15 @@
         "foto": "https://github.com/user-attachments/assets/2c2c431a-f631-410f-a85a-77ebb4147e56",
         "github": "https://t0rdn.github.io/Clase8/"
     },
+     {
+        "nombre": "Guias educativas",
+        "descripcion": "Practica realizada en Edulab, donde se debia diagramar e ilustrar guias educativas para estudiantes y profesores de colegios estatales en Melipilla",
+        "fecha": "2022",
+        "signo": "Grafico",
+        "foto": "https://github.com/user-attachments/assets/1ef25665-7a0b-4127-b615-44c227ce567e",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+
     {
         "nombre": "Urban Terra",
         "descripcion": "Una instalacion que fomenta la distencion en adultos mayores",
