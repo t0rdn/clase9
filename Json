@@ -1,0 +1,82 @@
+[
+    { //no estoy segura si el link esta bien
+        "nombre": "Caos",
+        "descripcion": "Un juego basado en el ecosistema de la Isla Choros",
+        "fecha": "2021",
+        "signo": "Producto",
+        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/caos2.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+    {
+        "nombre": "Circular Pet Lenguitas",
+        "descripcion": "Propuesta de sticker lamible para perros basado en frutas",
+        "fecha": "2022",
+        "signo": "Producto",
+        "foto": "https://github.com/user-attachments/assets/0a311439-ba7a-449c-bf22-e1b1994f5867",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+     {//no estoy segura si el link esta bien
+        "nombre": "Circular Pet Mascaditas",
+        "descripcion": "Propuesta de plasticia moldeable y comestible para mascotas basado en frutas",
+        "fecha": "2022",
+        "signo": "Producto",
+        "foto": "https://github.com/t0rdn/Clase8/blob/4cb598570c2e5219a073d08a0c90b5824e3f309c/Packing%20mascaditas%202.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+    {//no estoy segura si el link esta bien
+        "nombre": "EstuTrabajo",
+        "descripcion": "Una pagina web que facilita la conexion entre empresas y estudiantes que buscan trabajo",
+        "fecha": "2023",
+        "signo": "Servicio",
+        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/estu2.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+    {
+        "nombre": "Kremosa Protein Mix",
+        "descripcion": "Propuesta de una mezcla de mantequillas, divididas por densidades, que fomenta el cucharear",
+        "fecha": "2022",
+        "signo": "Producto",
+        "foto": "https://github.com/user-attachments/assets/421d7ddc-a7d9-41c7-b60a-208707c80e9a",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+     {//no estoy segura si el link esta bien
+        "nombre": "Kremosa POPS",
+        "descripcion": "Propuesta de una colacion de pelotitas de mantequillas de mani y almendra",
+        "fecha": "2022",
+        "signo": "Producto",
+        "foto": "https://github.com/t0rdn/Clase8/blob/4cb598570c2e5219a073d08a0c90b5824e3f309c/CAJA.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+    {//no estoy segura si el link esta bien
+        "nombre": "Maraiba",
+        "descripcion": "Un refugio para la jaiba marmola",
+        "fecha": "2023",
+        "signo": "Producto",
+        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/maraiba2.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    }, 
+     { //no estoy segura si el link esta bien
+        "nombre": "mismatch",
+        "descripcion": "Coleccion de prendas basado en el upcycing de prendas khaki",
+        "fecha": "2023",
+        "signo": "Textil",
+        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/mismatch2.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+    {//no estoy segura si el link esta bien
+        "nombre": "Modelado Lego",
+        "descripcion": "Modelado de la figura de lego de Malefica con sus accesorios, hecho en Rhino",
+        "fecha": "2024",
+        "signo": "Industrial",
+        "foto": "https://github.com/t0rdn/Clase8/blob/4cb598570c2e5219a073d08a0c90b5824e3f309c/lego1.jpg",
+        "github": "https://t0rdn.github.io/Clase8/"
+    },
+    {//no estoy segura si el link esta bien
+        "nombre": "Urban Terra",
+        "descripcion": "Una instalacion que fomenta la distencion en adultos mayores",
+        "fecha": "2021",
+        "signo": "Producto",
+        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/urbanterra2.png",
+        "github": "https://t0rdn.github.io/Clase8/"
+    }]
+   
