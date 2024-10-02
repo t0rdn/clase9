@@ -1,10 +1,10 @@
 [
-    { //no estoy segura si el link esta bien
+    { 
         "nombre": "Caos",
         "descripcion": "Un juego basado en el ecosistema de la Isla Choros",
         "fecha": "2021",
         "signo": "Producto",
-        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/caos2.png",
+        "foto": "https://github.com/user-attachments/assets/9b4f1061-18b7-4b6d-835a-722966c1ea30",
         "github": "https://t0rdn.github.io/Clase8/"
     },
     {
@@ -12,23 +12,23 @@
         "descripcion": "Propuesta de sticker lamible para perros basado en frutas",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/0a311439-ba7a-449c-bf22-e1b1994f5867",
+        "foto": "hhttps://github.com/user-attachments/assets/0b1682f8-e72c-4240-9358-c2b7cda40172",
         "github": "https://t0rdn.github.io/Clase8/"
     },
-     {//no estoy segura si el link esta bien
+     {
         "nombre": "Circular Pet Mascaditas",
         "descripcion": "Propuesta de plasticia moldeable y comestible para mascotas basado en frutas",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/t0rdn/Clase8/blob/4cb598570c2e5219a073d08a0c90b5824e3f309c/Packing%20mascaditas%202.png",
+        "foto": "https://github.com/user-attachments/assets/9398475e-dec4-4a09-8b43-a3cb77ca04a2",
         "github": "https://t0rdn.github.io/Clase8/"
     },
-    {//no estoy segura si el link esta bien
+    {
         "nombre": "EstuTrabajo",
         "descripcion": "Una pagina web que facilita la conexion entre empresas y estudiantes que buscan trabajo",
         "fecha": "2023",
         "signo": "Servicio",
-        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/estu2.png",
+        "foto": "https://github.com/user-attachments/assets/8617ec1a-89c9-429a-8d0d-9596cd4bd7bd",
         "github": "https://t0rdn.github.io/Clase8/"
     },
     {
@@ -36,47 +36,47 @@
         "descripcion": "Propuesta de una mezcla de mantequillas, divididas por densidades, que fomenta el cucharear",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/421d7ddc-a7d9-41c7-b60a-208707c80e9a",
+        "foto": "https://github.com/user-attachments/assets/ba3ca86c-5449-46fb-a060-5c75b815ac7a",
         "github": "https://t0rdn.github.io/Clase8/"
     },
-     {//no estoy segura si el link esta bien
+     {
         "nombre": "Kremosa POPS",
         "descripcion": "Propuesta de una colacion de pelotitas de mantequillas de mani y almendra",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/t0rdn/Clase8/blob/4cb598570c2e5219a073d08a0c90b5824e3f309c/CAJA.png",
+        "foto": "https://github.com/user-attachments/assets/69422d24-1db5-414c-92fb-6a425eb91f50",
         "github": "https://t0rdn.github.io/Clase8/"
     },
-    {//no estoy segura si el link esta bien
+    {
         "nombre": "Maraiba",
         "descripcion": "Un refugio para la jaiba marmola",
         "fecha": "2023",
         "signo": "Producto",
-        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/maraiba2.png",
+        "foto": "https://github.com/user-attachments/assets/1efcb0db-762c-4427-a5ff-5be6249c9499",
         "github": "https://t0rdn.github.io/Clase8/"
     }, 
-     { //no estoy segura si el link esta bien
+     { 
         "nombre": "mismatch",
         "descripcion": "Coleccion de prendas basado en el upcycing de prendas khaki",
         "fecha": "2023",
         "signo": "Textil",
-        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/mismatch2.png",
+        "foto": "https://github.com/user-attachments/assets/77bc9197-da78-4a23-a71d-8ddfb847dc02",
         "github": "https://t0rdn.github.io/Clase8/"
     },
-    {//no estoy segura si el link esta bien
+    {
         "nombre": "Modelado Lego",
         "descripcion": "Modelado de la figura de lego de Malefica con sus accesorios, hecho en Rhino",
         "fecha": "2024",
         "signo": "Industrial",
-        "foto": "https://github.com/t0rdn/Clase8/blob/4cb598570c2e5219a073d08a0c90b5824e3f309c/lego1.jpg",
+        "foto": "https://github.com/user-attachments/assets/2c2c431a-f631-410f-a85a-77ebb4147e56",
         "github": "https://t0rdn.github.io/Clase8/"
     },
-    {//no estoy segura si el link esta bien
+    {
         "nombre": "Urban Terra",
         "descripcion": "Una instalacion que fomenta la distencion en adultos mayores",
         "fecha": "2021",
         "signo": "Producto",
-        "foto": "https://github.com/t0rdn/Clase8/blob/15233c1593108c2fc07ef1419c7efa39da6c06f0/urbanterra2.png",
+        "foto": "https://github.com/user-attachments/assets/381e6a39-2523-4922-998a-a19345212f18",
         "github": "https://t0rdn.github.io/Clase8/"
     }]
    
